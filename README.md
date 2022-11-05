@@ -6,11 +6,11 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 - 🔭 Em busca de ampliar o conhecimento para o Mercado de Trabalho.
 
-- ▶️ I (not) regularly post videos on [youtube.com/@Naysz](https://youtube.com/@Naysz)
+- ▶️ Eu (não) posto vídeos frequentemente no [youtube.com/@Naysz](https://youtube.com/@Naysz)
 
 - 💬 Falo sobre **JavaScript, HTML, CSS, SASS, React.js**
 
-- ⚡ Fato engraçado **TDAH 😜**
+- ⚡ Fato engraçado: **TDAH 😜**
 
 - 👨‍💻 Mais informações nas Redes Sociais.
 
