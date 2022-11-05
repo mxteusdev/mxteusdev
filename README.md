@@ -1,6 +1,5 @@
 <img align="right" height="500em"
 src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad3192a54f0/raw/6d0a7ea5587dc81a9533d545505ec2109791a354/githubcard.svg" />
-<h1 align="left">console.log('Hello World!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">')</h1>
 
 - 🎨 Desenvolvedor Front-End, Designer UX/UI
 
@@ -17,7 +16,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 <br>
 
 # 👾 Sobre mim! 
-Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. Atualmente faço cursos na **Área da Programação Full-Stack**, mas meu foco é melhorar nas **Tecnologias Front-End** e me tornar um profissional completo nessa área.🤍
+Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço cursos na **Área da Programação Full-Stack**, mas meu foco é melhorar nas **Tecnologias Front-End** e me tornar um profissional completo nessa área.🤍
 
 <br>
 
