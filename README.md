@@ -6,4 +6,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@Nayzs)](https://youtube.com/@Nayzs)
 
 ### About me
-Sou estudante de Programação Full-Stack (Front-End, Back-End, Database, DevOps e Mobile), porém tenho mais identificação com Front-End.
+Sou estudante de Programação Full-Stack (Front-End, Back-End, Database, DevOps e Mobile), porém focados nas Técnologias Front-End.
