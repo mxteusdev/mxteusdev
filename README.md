@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 - 💬 Falo sobre **JavaScript, HTML, CSS, SASS, React.js**
 
-- ⚡ Fato engraçado: **TDAH 😜**
+- ⚡ Fato engraçado: **ANOTO NO CADERNO 😜**
 
 - 👨‍💻 Mais informações nas Redes Sociais.
 
