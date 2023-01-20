@@ -7,9 +7,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 - ▶️ Eu (não) posto vídeos frequentemente no [youtube.com/@Naysz](https://youtube.com/@Naysz)
 
-- 💬 Falo sobre **JavaScript, HTML, CSS, JavaScript, React.js**
-
-- ⚡ Fato engraçado: **ANOTO NO CADERNO 😜**
+- 🦜 Estudo sobre **JavaScript, HTML, CSS, JavaScript, React.js**
 
 - 👨‍💻 Mais informações nas Redes Sociais.
 
