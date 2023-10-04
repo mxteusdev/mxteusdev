@@ -43,6 +43,7 @@ Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço curso
 
 <div style="display: inline_block">
   <img align="center" alt="Mxt-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Mxt-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
 
 
