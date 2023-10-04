@@ -34,7 +34,7 @@ Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço curso
   <img align="center" alt="Mxt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mxt-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mxt-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mxt-Mongodb" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
+  <img align="center" alt="Mxt-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 
