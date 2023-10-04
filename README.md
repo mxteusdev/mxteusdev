@@ -42,7 +42,7 @@ Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço curso
 # 💡 Interesses
 
 <div style="display: inline_block">
-  <img align="center" alt="Mxt-sass" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjava_226777&psig=AOvVaw0hOQXlmvLknCrbzytAJOMB&ust=1696529055753000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDBjK_93IEDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Mxt-sass" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F184143%2Fjava&psig=AOvVaw0IA50mCUosZGuyQ78xnyZZ&ust=1696529102482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICpm8X93IEDFQAAAAAdAAAAABAE">
 </div> 
 
 
