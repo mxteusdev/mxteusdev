@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 <br>
 
 # 👾 Sobre mim! 
-Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço cursos na **Área da Programação Full-Stack**, mas meu foco é melhorar nas **Tecnologias Front-End** e me tornar um profissional completo nessa área.🤍
+Mateus Rodrigues, 22 anos, moro atualmente em Itapevi-SP. No momento faço cursos na **Área da Programação Full-Stack**, mas meu foco é melhorar nas **Tecnologias Front-End** e me tornar um profissional completo nessa área.🤍
 
 <br>
 
