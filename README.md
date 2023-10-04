@@ -32,9 +32,9 @@ Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço curso
   <img align="center" alt="Mxt-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Mxt-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Mxt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mxt-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Mxt-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mxt-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Mxt-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Mxt-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mxt-Mongodb" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
 </div>
 
 
@@ -42,7 +42,7 @@ Mateus Rodrigues, 21 anos, moro atualmente em Itapevi-SP. No momento faço curso
 # 💡 Interesses
 
 <div style="display: inline_block">
-  <img align="center" alt="Mxt-sass" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F184143%2Fjava&psig=AOvVaw0IA50mCUosZGuyQ78xnyZZ&ust=1696529102482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICpm8X93IEDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Mxt-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div> 
 
 
