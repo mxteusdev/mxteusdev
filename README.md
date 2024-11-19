@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 <br>
 
 # 👾 Sobre mim! 
-Enthusiast of the best web & mobile development technologies.
+Enthusiast of the best web development technologies.
 
 <br>
 
