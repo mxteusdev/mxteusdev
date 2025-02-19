@@ -3,10 +3,9 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 # 👾 About me! 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS na Faculdade das Américas.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying ADS at Faculdade das Américas.
+- 🌱 Learning more about the javascript ecosystem.
 
 
 # 🚀 Tecnologias
@@ -36,11 +35,10 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 # 💻 Sociais
 
-<div style="display: inline_block">
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mxteusdev)](https://github.com/mxteusdev)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvteusdev/)](https://www.linkedin.com/in/mvteusdev/)
-  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
-<div/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mxteusdev)](https://github.com/mxteusdev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvteusdev/)](https://www.linkedin.com/in/mvteusdev/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
+
 <br>
 ## ⭐ GitHub Stats
 
