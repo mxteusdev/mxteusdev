@@ -36,10 +36,11 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 # 💻 Sociais
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mxteusdev)](https://github.com/mxteusdev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvteusdev/)](https://www.linkedin.com/in/mvteusdev/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
+<div style="display: inline_block">
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mxteusdev)](https://github.com/mxteusdev)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvteusdev/)](https://www.linkedin.com/in/mvteusdev/)
+  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
+<div/>
 <br>
 ## ⭐ GitHub Stats
 
