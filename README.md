@@ -1,19 +1,12 @@
 <img align="right" height="500em"
 src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad3192a54f0/raw/6d0a7ea5587dc81a9533d545505ec2109791a354/githubcard.svg" />
 
-- 🎨 Desenvolvedor Front-End, Designer UX/UI
+# 👾 About me! 
 
-- 🔭 Em busca de ampliar o conhecimento para o Mercado de Trabalho.
-
-- ▶️ Eu (não) posto vídeos frequentemente no [youtube.com/@Naysz](https://youtube.com/@Naysz)
-
-- 🦜 Learning **Web development**
-
-
-<br>
-
-# 👾 Sobre mim! 
-Enthusiast of the best web development technologies.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando ADS na Faculdade das Américas.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 <br>
 
