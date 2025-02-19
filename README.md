@@ -7,12 +7,8 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 - 🎓 Estudando ADS na Faculdade das Américas.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
+  
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxteusdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxteusdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🚀 Tecnologias
 <div style="display: inline_block">
@@ -44,6 +40,9 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mxteusdev)](https://github.com/mxteusdev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mxteusdev/)](https://www.linkedin.com/in/mxteusdev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mateusnayz)](https://twitter.com/mateusnayz)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@Nayzs)](https://youtube.com/@Nayzs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvteusdev/)](https://www.linkedin.com/in/mvteusdev/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxteusdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxteusdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
