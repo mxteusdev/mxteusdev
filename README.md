@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/gist/mxteusdev/d05bfa4015a5654c36b87ad319
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/@neyzreal)](https://youtube.com/@neyzreal)
 
 <br>
-## ⭐ GitHub Stats
+##⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxteusdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
