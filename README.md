@@ -116,7 +116,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,arch,ubuntu,python,javascript,mysql" /><br
+    <img src="https://skillicons.dev/icons?i=bash,arch,ubuntu,python,javascript,mysql" /><br
 </div>
 
 <br/>
